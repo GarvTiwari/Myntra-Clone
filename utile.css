@@ -1,0 +1,19 @@
+
+.flex{
+    display: flex;
+}
+.item-center{
+align-items: center;
+}
+.justify-center{
+justify-content: center;
+}
+.space{
+    justify-content: space-between;
+}
+.block-letter{
+    text-transform: uppercase;
+}
+.pd-2{
+    padding:0 4px
+}

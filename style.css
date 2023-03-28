@@ -1,0 +1,31 @@
+header{
+position: sticky;
+top :0;
+background: white;
+}
+
+.left img{
+    height: 21px;
+    width: 38px;
+}
+.container{
+padding: 0 10vw;
+margin: auto;
+}
+.flex li{
+    list-style: none;
+    padding: 0px 4px;
+    margin: 0px;
+}
+.set-size{
+    font-size: 7px;
+}
+.databolder{
+font-weight: bold;
+}
+.high{
+    height:  120vh;
+}
+.name{
+    background-color: #D3D3D3;
+}
